@@ -9,7 +9,20 @@ h1{
     text-transform: uppercase;
     font-family: var(--font_titulo_e_subtitulo);
     font-weight: bold;
+    letter-spacing: -0.5px;
+}
+h2{
+    font-family: var(--font_titulo_e_subtitulo);
+    font-weight: 800;
+    letter-spacing: 0.25px;
 }
 p{
     font-family: var(--font_corpo_texto);
+    letter-spacing: 0.5px;
+}
+blockquote{
+    width: 540px;
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    letter-spacing: 0.5px;
 }
